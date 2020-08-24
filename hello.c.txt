@@ -1,8 +1,8 @@
 /*
-* Author: Dalton Carder
+* Author: Grant
 Date: 2020
 
-simple hello world
+simple C file
 */
 
 #include <stdlib.h>
@@ -10,8 +10,10 @@ simple hello world
 
 int main(int argc, char **argv)  {
 
-	printf("Hello World!\n);
-	printf("Computer engineering"\n);
+	printf("Grant!\n);
+	printf("Your Major"\n);
+	printf("Dalton Carder"\n");
+	printf("Computer Engineering"\n);
 
 	return 0;
 
